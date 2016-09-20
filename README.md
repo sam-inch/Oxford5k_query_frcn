@@ -2,6 +2,8 @@
 
 The codes are used to create three documents for faster rcnn training. It transfer the query information of ground-truth box from oxford5k dataset. The code is written by Sam Weng.
 
+It is my first time to write python codes and please forgive the that is not elegent and a bit ugly.
+
 # Trans *Oxford5k dataset* for Faster R-CNN
 
 ## About the python files
