@@ -4,7 +4,8 @@ The codes are used to create three documents for faster rcnn training. It transf
 
 It is my first time to write python codes and please forgive the that is not elegent and a bit ugly.
 
-# Trans *Oxford5k dataset* for Faster R-CNN
+# Trans *Oxford5k query* for Faster R-CNN
+# worth nothing~
 
 ## About the python files
 The original gt file for Oxford5k indicates the gt boxes only for query images. The code can automatically read the original information from ft files and images.
